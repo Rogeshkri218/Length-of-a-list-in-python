@@ -1,0 +1,3 @@
+my_list = [10, 20, 30, 40]
+length = len(my_list)
+print(length)  # Output: 4
